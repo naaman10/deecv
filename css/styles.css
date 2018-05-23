@@ -17,9 +17,9 @@ h1,h2,h3,h4 {
   font-family: 'Tangerine', serif;
 }
 
-/* .parallax{
-  background-image: url("../img/background.jpg");
-} */
+.parallax{
+  background-image: url("https://files.slack.com/files-pri/T03HKJFBT-FAUD6UWDS/image.png");
+}
 .parallax {
   height: 100%;
   background-repeat: no-repeat;

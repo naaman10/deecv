@@ -1,5 +1,5 @@
 ---
-title: The Wedding
+title: Dee Heap
 timezone: GMT
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 defaults:
 email: naamanh10@gmail.com
-description: The Wedding of the year
+description: Experienced Business Analyst
 baseurl: ''
 url:
 markdown: kramdown
